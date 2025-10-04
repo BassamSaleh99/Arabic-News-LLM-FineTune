@@ -1,4 +1,4 @@
-# Arabic News LLM Fine-Tuning
+<img width="1211" height="411" alt="image" src="https://github.com/user-attachments/assets/aa6b6725-ae17-4d7b-b771-fe2ba8236648" /># Arabic News LLM Fine-Tuning
 
 This project focuses on **fine-tuning large language models (LLMs)** on Arabic news data to perform structured information extraction and text understanding tasks. The implementation leverages **parameter-efficient fine-tuning (LoRA adapters)** and integrates with **vLLM** for optimized inference.
 
@@ -54,6 +54,11 @@ The project integrates several modern NLP tools and frameworks:
    - **vLLM** is used for high-throughput and low-latency inference.
 
 ---
+
+## 📚 Resources
+- 📂 Data: [Google Drive Link](<img width="1211" height="411" alt="image" src="https://github.com/user-attachments/assets/9d8e88d9-2b13-4ba8-b964-97dc58bac5a2" />)
+- 📂 Model: [Google Drive Link](<img width="1211" height="411" alt="image" src="https://github.com/user-attachments/assets/e1c88918-69d1-44e0-aa82-2e561acbedf9" />
+)
 
 ## 📊 Results
 
